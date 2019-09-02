@@ -1,0 +1,8 @@
+Intruçoes:
+1- Digite o caminho do arquivo de entrada com nome do arquivo.txt que deseja ler: 
+	Digite o camimnho com ja com o nome do arquivo e extenção para leitura.
+	ex: "/home/juniorrodrigues/workspace/arquivo_de_entrada.txt"
+
+2- Digite o caminho com nome do arquivo.txt que deseja salvar:
+	Digite o camimnho com ja com o nome do arquivo e extenção para que ele possa salvar o processamento..
+	ex: "/home/juniorrodrigues/workspace/arquivo_de_saida.txt"
